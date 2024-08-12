@@ -1,3 +1,9 @@
+"""
+Name : Lakshya Dubey
+Student ID: 10331244
+Group: Rishi Patel, Bhavya Solanki, Lakshya Dubey 
+"""
+
 import requests
 
 def get_apod_info(apod_date, api_key):
